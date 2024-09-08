@@ -50,7 +50,7 @@ export default defineConfig({
 	},
 	// https://docs.astro.build/en/guides/prefetch/
 	prefetch: true,
-	site: "https://nitko12.github.io/blog/",
+	site: "https://zharamustek.com",
 	vite: {
 		optimizeDeps: {
 			exclude: ["@resvg/resvg-js"],
